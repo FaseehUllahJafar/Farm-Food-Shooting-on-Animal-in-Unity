@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7ec57db00ac5634488f415926195d1b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PizzaPrefab: {fileID: 6115617087248948579, guid: 539b19e785612fd4fbed3e20058b750f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
