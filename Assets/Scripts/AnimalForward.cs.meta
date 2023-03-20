@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: de361935b859268498255c0da944afad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AnimalPrefab: {fileID: 276589409593230597, guid: ca25d17e240f3764381572479855b0f8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
